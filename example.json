@@ -1,0 +1,333 @@
+[
+	{
+		"id": "muller2022",
+		"type": "webpage",
+		"title": "Mehrheit unterstützt deutschen Ukraine-Kurs",
+		"URL": "https://www.tagesschau.de/inland/deutschlandtrend/deutschlandtrend-2925.html",
+		"author": [
+			{
+				"family": "Müller",
+				"given": "Claudia"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2022",
+					3,
+					3
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2022",
+					3,
+					3
+				]
+			]
+		}
+	},
+	{
+		"id": "reuber2001",
+		"type": "book",
+		"collection-number": "112",
+		"collection-title": "Heidelberger geographische Arbeiten",
+		"event-place": "Heidelberg",
+		"ISBN": "978-3-88570-112-5",
+		"language": "ger eng",
+		"number-of-pages": "277",
+		"publisher": "Selbstverlag des Geographischen Instituts",
+		"publisher-place": "Heidelberg",
+		"source": "Gemeinsamer Bibliotheksverbund ISBN",
+		"title": "Politische Geographie: handlungsorientierte Ansätze und Critical Geopolitics",
+		"title-short": "Politische Geographie",
+		"editor": [
+			{
+				"family": "Reuber",
+				"given": "Paul"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2001"
+				]
+			]
+		}
+	},
+	{
+		"id": "2007",
+		"type": "post-weblog",
+		"abstract": "One source of a conception of philosophy as the work of problematization is the thought of Gilles Deleuze. Though the critical literature on Deleuze can hardly be said to have found many points of …",
+		"container-title": "requiem for certainty",
+		"language": "en",
+		"title": "Deleuze on Problematization",
+		"URL": "https://cwkoopman.wordpress.com/2007/11/05/deleuze-on-problematization/",
+		"accessed": {
+			"date-parts": [
+				[
+					"2019",
+					9,
+					10
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2007",
+					11,
+					5
+				]
+			]
+		}
+	},
+	{
+		"id": "wiertz2019",
+		"type": "article-journal",
+		"container-title": "Geographische Zeitschrift",
+		"DOI": "10.25162/gz-2019-0008",
+		"ISSN": "0016-7479",
+		"issue": "4",
+		"journalAbbreviation": "ges",
+		"language": "de",
+		"license": "All rights reserved",
+		"note": "number: 4",
+		"page": "254-281",
+		"source": "DOI.org (Crossref)",
+		"title": "Theoretische und methodische Perspektiven für eine Diskursforschung im digitalen Raum: Die Bundestagswahl 2017 auf Twitter",
+		"title-short": "Theoretische und methodische Perspektiven für eine Diskursforschung im digitalen Raum",
+		"URL": "https://elibrary.steiner-verlag.de/article/10.25162/gz-2019-0008",
+		"volume": "107",
+		"author": [
+			{
+				"family": "Wiertz",
+				"given": "Thilo"
+			},
+			{
+				"family": "Schopper",
+				"given": "Tobias"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2019",
+					9,
+					18
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2019"
+				]
+			]
+		}
+	},
+	{
+		"id": "lossau2014",
+		"type": "book",
+		"abstract": "Angelehnt an das in den USA sehr erfolgreichen \"Key concepts\"-Lehrbuchmodell stellt dieser Band die Inhalte der Kultur- und Sozialgeographie anhand ausgewählter Schlüsselbegriffe vor. Teil 1 klärt die grundlegenden Kategorien des Fachs (Raum, Umwelt, Region etc.), Teil 2 widmet sich den gesellschaftlich relevanten Prozessen (Migration, Urbanisation, Globalisierung etc.) und Teil 3 behandelt die zentralen kultur- und sozialgeographischen Methoden",
+		"event-place": "Stuttgart",
+		"ISBN": "978-3-8252-3898-8",
+		"language": "ger",
+		"number-of-pages": "279",
+		"publisher": "Verlag Eugen Ulmer",
+		"publisher-place": "Stuttgart",
+		"source": "K10plus ISBN",
+		"title": "Schlüsselbegriffe der Kultur- und Sozialgeographie",
+		"editor": [
+			{
+				"family": "Lossau",
+				"given": "Julia"
+			},
+			{
+				"family": "Freytag",
+				"given": "Tim"
+			},
+			{
+				"family": "Lippuner",
+				"given": "Roland"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2014"
+				]
+			]
+		}
+	},
+	{
+		"id": "wiertz",
+		"type": "article-journal",
+		"DOI": "10.13140/RG.2.2.24748.07040",
+		"language": "LANGUAGE",
+		"note": "in Begutachtung",
+		"title": "Shaping geopolitical worldviews online: the 'Great Reset' conspiracy narrative on Twitter",
+		"author": [
+			{
+				"family": "Wiertz",
+				"given": "Thilo"
+			},
+			{
+				"family": "Schopper",
+				"given": "Tobias"
+			}
+		]
+	},
+	{
+		"id": "glasze2021c",
+		"type": "book",
+		"call-number": "GF49 .H354 2021",
+		"edition": "3. Auflage",
+		"event-place": "Bielefeld",
+		"ISBN": "978-3-8376-3218-7",
+		"number-of-pages": "481",
+		"publisher": "Transcript",
+		"publisher-place": "Bielefeld",
+		"source": "Library of Congress ISBN",
+		"title": "Handbuch Diskurs und Raum: Theorien und Methoden für die Humangeographie sowie die sozial- und kulturwissenschaftliche Raumforschung",
+		"title-short": "Handbuch Diskurs und Raum",
+		"editor": [
+			{
+				"family": "Glasze",
+				"given": "Georg"
+			},
+			{
+				"family": "Mattissek",
+				"given": "Annika"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2021"
+				]
+			]
+		}
+	},
+	{
+		"id": "wiertz2021d",
+		"type": "chapter",
+		"call-number": "GF49 .H354 2021",
+		"container-title": "Handbuch Diskurs und Raum: Theorien und Methoden für die Humangeographie sowie die sozial- und kulturwissenschaftliche Raumforschung",
+		"edition": "3. Auflage",
+		"event-place": "Bielefeld",
+		"ISBN": "978-3-8376-3218-7",
+		"page": "291–307",
+		"publisher": "Transcript",
+		"publisher-place": "Bielefeld",
+		"source": "Library of Congress ISBN",
+		"title": "Materialität",
+		"editor": [
+			{
+				"family": "Glasze",
+				"given": "Georg"
+			},
+			{
+				"family": "Mattissek",
+				"given": "Annika"
+			}
+		],
+		"author": [
+			{
+				"family": "Wiertz",
+				"given": "Thilo"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2021"
+				]
+			]
+		}
+	},
+	{
+		"id": "wald2025",
+		"type": "article-newspaper",
+		"abstract": "Die Universität Harvard hat sich gegen die Trump-Regierung gestellt. Auf dem Campus wird das gefeiert. Doch der Kampf hat erst begonnen.",
+		"container-title": "Die Zeit",
+		"event-place": "Hamburg",
+		"ISSN": "0044-2070",
+		"language": "de-DE",
+		"publisher-place": "Hamburg",
+		"source": "Die Zeit",
+		"title": "Universität Harvard : Eine Universität im Widerstand",
+		"title-short": "Universität Harvard",
+		"URL": "https://www.zeit.de/2025/17/universitaet-harvard-donald-trump-widerstand-usa-hochschule",
+		"author": [
+			{
+				"family": "Wald",
+				"given": "Carlotta"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2025",
+					4,
+					23
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2025",
+					4,
+					23
+				]
+			]
+		}
+	},
+	{
+		"id": "boettcher2024",
+		"type": "article-journal",
+		"container-title": "grid",
+		"DOI": "10.6094/grid.2024.001",
+		"ISSN": "2944-344X",
+		"note": "tex.lang: de",
+		"page": "1-6",
+		"title": "Was ist grid?",
+		"URL": "https://gridisnotajournal.de/articles/editors-2024-was-ist-grid",
+		"author": [
+			{
+				"family": "Boettcher",
+				"given": "Hannah"
+			},
+			{
+				"family": "Keuneke",
+				"given": "Florin"
+			},
+			{
+				"family": "Leipert",
+				"given": "Sophia"
+			},
+			{
+				"family": "Münßinger",
+				"given": "Max"
+			},
+			{
+				"family": "Straube",
+				"given": "Till"
+			},
+			{
+				"family": "Wiertz",
+				"given": "Thilo"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2024"
+				]
+			]
+		}
+	}
+]
