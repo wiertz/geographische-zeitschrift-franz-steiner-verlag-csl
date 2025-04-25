@@ -108,7 +108,7 @@
         <text macro="cit-author"/>
         <text macro="year"/>
       </group>
-      <group>
+      <group prefix=", ">
         <text variable="locator"/>
       </group>
     </layout>
